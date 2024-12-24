@@ -19,7 +19,7 @@ Prototyping and testing were integral in refining the user experience, making su
 
 ## Demo Video
 Watch the chatbot in action:  
-[![Chatbot Demo Video](https://img.youtube.com/vi/1JNXSwwvWsjRMWJ0ZAqL0XccgmhmgJ5pK/0.jpg)](https://drive.google.com/file/d/1JNXSwwvWsjRMWJ0ZAqL0XccgmhmgJ5pK/view?usp=drive_link)  
+ 
 [Click here to watch the full video](https://drive.google.com/file/d/1JNXSwwvWsjRMWJ0ZAqL0XccgmhmgJ5pK/view?usp=drive_link)
 
 ---
@@ -27,7 +27,7 @@ Watch the chatbot in action:
 ## Template Overview
 Below is a snapshot of the chatbot template design:
 
-![Chatbot Template](https://drive.google.com/uc?id=1wQ3ME9GvGCXLfbuJwe6BMZ685rmA3jQW)
+[Chatbot Template](https://drive.google.com/file/d/1wQ3ME9GvGCXLfbuJwe6BMZ685rmA3jQW/view?usp=drive_link)
 
 ---
 
