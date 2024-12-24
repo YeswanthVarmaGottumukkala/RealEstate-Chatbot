@@ -48,8 +48,7 @@ Watch the chatbot in action:
 ## Template Overview
 ### Chatbot Template Image:
 Below is a snapshot of the chatbot template design:  
-![Chatbot Template]()  
-(*Replace `"C:\Users\yeswanth\Downloads\Chatbot template.png"` with the actual filename or path to your template image.*)
+![Chatbot Template](https://github.com/your-username/your-repository/raw/main/assets/Chatbot%20template.png)
 
 ---
 
