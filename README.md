@@ -27,7 +27,7 @@ Watch the chatbot in action:
 ## Template Overview
 Below is a snapshot of the chatbot template design:
 
-![Chatbot Template](https://github.com/YeswanthVarmaGottumukkala/RealEstate-Chatbot/raw/main/assets/Chatbot-template.png)
+![Chatbot Template](https://drive.google.com/uc?id=1wQ3ME9GvGCXLfbuJwe6BMZ685rmA3jQW)
 
 ---
 
