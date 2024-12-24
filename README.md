@@ -48,7 +48,7 @@ Watch the chatbot in action:
 ## Template Overview
 ### Chatbot Template Image:
 Below is a snapshot of the chatbot template design:  
-![Chatbot Template](https://github.com/your-username/your-repository/raw/main/assets/Chatbottemplate.png)
+![Chatbot Template](https://github.com/your-username/your-repository/raw/main/assets/Chatbot-template.png)
 
 ---
 
