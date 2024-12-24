@@ -31,6 +31,11 @@ Below is a snapshot of the chatbot template design:
 
 ---
 
+## Additional Resources
+For more resources, including demo videos and templates, visit the [Google Drive Folder](https://drive.google.com/drive/folders/12tj_rqiTfcigS7zxDO2s5Cg8BSvAwKEv?usp=drive_link).
+
+---
+
 ## Technologies Used
 - **Platform:** [Botpress](https://botpress.com/)
 - **Programming:** JavaScript and JSON for custom integrations.
