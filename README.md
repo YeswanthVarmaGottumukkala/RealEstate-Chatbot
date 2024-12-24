@@ -44,6 +44,11 @@ Watch the chatbot in action:
 (*Replace `https://drive.google.com/file/d/1JNXSwwvWsjRMWJ0ZAqL0XccgmhmgJ5pK/view?usp=drive_link` with your video link or the path to the video file in the repository.*)
 
 ---
+# Chatbot Demo Video
+
+Watch the demo video from Google Drive:
+
+[Click here to watch the video](https://drive.google.com/file/d/1JNXSwwvWsjRMWJ0ZAqL0XccgmhmgJ5pK/view?usp=drive_link)
 
 ## Template Overview
 ### Chatbot Template Image:
