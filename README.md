@@ -39,9 +39,9 @@ As part of this project, I focused on designing an intuitive **UI/UX** that simp
 ## Demo Video
 Watch the chatbot in action:  
 ![Chatbot Demo Video]()  
-(*Replace `"C:\Users\yeswanth\Downloads\Chatbot Demo.mp4"` with the actual thumbnail or preview image for your video.*)  
+(*Replace `"` with the actual thumbnail or preview image for your video.*)  
 [Click to Watch the Full Video](#)  
-(*Replace `#` with your video link or the path to the video file in the repository.*)
+(*Replace `https://drive.google.com/file/d/1JNXSwwvWsjRMWJ0ZAqL0XccgmhmgJ5pK/view?usp=drive_link` with your video link or the path to the video file in the repository.*)
 
 ---
 
@@ -49,7 +49,7 @@ Watch the chatbot in action:
 ### Chatbot Template Image:
 Below is a snapshot of the chatbot template design:  
 ![Chatbot Template]()  
-(*Replace `template-image.png` with the actual filename or path to your template image.*)
+(*Replace `"C:\Users\yeswanth\Downloads\Chatbot template.png"` with the actual filename or path to your template image.*)
 
 ---
 
