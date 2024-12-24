@@ -39,7 +39,7 @@ As part of this project, I focused on designing an intuitive **UI/UX** that simp
 ## Demo Video
 Watch the chatbot in action:  
 ![Chatbot Demo Video]()  
-(*Replace `"` with the actual thumbnail or preview image for your video.*)  
+(*Replace `"C:\Users\yeswanth\Downloads\Chatbot Demo.mp4"` with the actual thumbnail or preview image for your video.*)  
 [Click to Watch the Full Video](#)  
 (*Replace `https://drive.google.com/file/d/1JNXSwwvWsjRMWJ0ZAqL0XccgmhmgJ5pK/view?usp=drive_link` with your video link or the path to the video file in the repository.*)
 
@@ -48,7 +48,7 @@ Watch the chatbot in action:
 ## Template Overview
 ### Chatbot Template Image:
 Below is a snapshot of the chatbot template design:  
-![Chatbot Template](https://github.com/your-username/your-repository/raw/main/assets/Chatbot%20template.png)
+![Chatbot Template](https://github.com/your-username/your-repository/raw/main/assets/Chatbottemplate.png)
 
 ---
 
@@ -56,7 +56,3 @@ Below is a snapshot of the chatbot template design:
 - **Platform:** [Botpress](https://botpress.com/)
 - **Programming:** JavaScript and JSON for custom integrations.
 - **Design Tools:** Figma and Botpress visual editor for flow design.
-
----
-
-
