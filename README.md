@@ -29,6 +29,11 @@ Below is a snapshot of the chatbot template design:
 
 [Chatbot Template](https://drive.google.com/file/d/1wQ3ME9GvGCXLfbuJwe6BMZ685rmA3jQW/view?usp=drive_link)
 
+Below is a snapshot of the chatbot template design:
+
+![Chatbot Template](https://github.com/YeswanthVarmaGottumukkala/RealEstate-Chatbot/raw/main/assets/Chatbot-template.png)
+
+
 ---
 
 ## Additional Resources
